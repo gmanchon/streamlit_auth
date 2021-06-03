@@ -1,4 +1,8 @@
 
+# setup
+
+rename `.env.sample` into `.env`
+
 # install
 
 ``` bash
