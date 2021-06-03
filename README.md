@@ -24,4 +24,4 @@ git push heroku master                            # push to production
 
 Go to the **Settings** of your heroku app:
 - click **Reveal Config Vars**
-- add a `APP_PASSWORD` **KEY** with the global password as a **VALUE**
+- add an `APP_PASSWORD` **KEY** with the global password as a **VALUE**
